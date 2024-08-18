@@ -2,7 +2,7 @@
 <h3 align="center">A Mathematics and Computing student at the Department of Mathematics,<br>Indian Institute of Technology Delhi</h3>
 
 <p align="center">
-<!--   <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" alt="animated globe" width="100"/> -->
+  <img src="https://giphy.com/stickers/transparent-D4wj7Ffx9fsEAy7B0h" alt="animated globe" width="100"/>
 </p>
 
 - 🌱 I’m currently learning **Data structures and algorithms in python**
