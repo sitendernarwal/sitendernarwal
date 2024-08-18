@@ -2,7 +2,7 @@
 <h3 align="center">A Mathematics and Computing student at the Department of Mathematics,<br>Indian Institute of Technology Delhi</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" alt="animated globe" width="100"/>
+<!--   <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" alt="animated globe" width="100"/> -->
 </p>
 
 - 🌱 I’m currently learning **Data structures and algorithms in python**
@@ -65,15 +65,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
 </p>
-
-<!--
-  Stylesheets and scripts referenced in your HTML are not directly used in GitHub READMEs, but you can maintain the references for personal use:
-  - <link href="css/style3.css" rel="stylesheet" type="text/css">
-  - <link href="css/style1.css" rel="stylesheet" type="text/css">
-  - <link href="css/style2.css" rel="stylesheet" type="text/css">
-  - <script src="scripts/subfolder/script1.js"></script>
-  - <script src="scripts/subfolder/script2.js"></script>
-  - <script src="scripts/script1.js"></script>
-  - <script src="scripts/script3.js"></script>
-  - <script src="scripts/script2.js"></script>
--->
