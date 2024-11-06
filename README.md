@@ -1,16 +1,17 @@
 <div align="center">
   
 ```ascii
- █████╗ ██████╗ ███████╗███╗   ██╗████████╗    ███████╗██╗████████╗███████╗███╗   ██╗██████╗ ███████╗██████╗ 
-██╔══██╗██╔══██╗██╔════╝████╗  ██║╚══██╔══╝    ██╔════╝██║╚══██╔══╝██╔════╝████╗  ██║██╔══██╗██╔════╝██╔══██╗
-███████║██████╔╝█████╗  ██╔██╗ ██║   ██║       ███████╗██║   ██║   █████╗  ██╔██╗ ██║██║  ██║█████╗  ██████╔╝
-██╔══██║██╔════╝ ██╔══╝  ██║╚██╗██║   ██║       ╚════██║██║   ██║   ██╔══╝  ██║╚██╗██║██║  ██║██╔══╝  ██╔══██╗
-██║  ██║██║     ███████╗██║ ╚████║   ██║       ███████║██║   ██║   ███████╗██║ ╚████║██████╔╝███████╗██║  ██║
-╚═╝  ╚═╝╚═╝     ╚══════╝╚═╝  ╚═══╝   ╚═╝       ╚══════╝╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═══╝╚═════╝ ╚══════╝╚═╝  ╚═╝
+ ███████╗██╗████████╗███████╗███╗   ██╗██████╗ ███████╗██████╗ 
+██╔════╝██║╚══██╔══╝██╔════╝████╗  ██║██╔══██╗██╔════╝██╔══██╗
+███████╗██║   ██║   █████╗  ██╔██╗ ██║██║  ██║█████╗  ██████╔╝
+╚════██║██║   ██║   ██╔══╝  ██║╚██╗██║██║  ██║██╔══╝  ██╔══██╗
+███████║██║   ██║   ███████╗██║ ╚████║██████╔╝███████╗██║  ██║
+╚══════╝╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═══╝╚═════╝ ╚══════╝╚═╝  ╚═╝
+
 ```
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Mono&size=25&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=70&lines=Mathematics+and+Computing+Student;Cybersecurity+Enthusiast;Digital+Fortress+Builder;Algorithmic+Mastermind"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Mono&size=25&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=70&lines=Mathematics+and+Computing+Student+at+IIT+Delhi;Cybersecurity+Enthusiast"/>
 </h3>
 
 ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
@@ -110,9 +111,9 @@ agent = CyberSecurityOperative()
 ```css
 [√] Security Certifications in Progress
 ```
+- 🎯 Google Cyber Security Certificate (Professional)
 - 🎯 CompTIA Security+ (In Progress)
-- 🎯 CEH (Certified Ethical Hacker)
-- 🎯 OSCP (Offensive Security Certified Professional)
+
 
 ## 【﻿ＣＯＭＭＵＮＩＣＡＴＩＯＮ　ＣＨＡＮＮＥＬＳ】
 
