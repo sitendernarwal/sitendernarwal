@@ -38,7 +38,7 @@ class CyberSecurityOperative:
         self.operative_data = {
             "CODENAME": "SITENDER",
             "CLEARANCE_LEVEL": "LEVEL_5",
-            "BASE": "IIT Delhi - Cybersecurity Division",
+            "BASE": "IIT Delhi - Department of Mathemetics",
             "SPECIALIZATION": "Mathematics & Computing",
             "ACTIVE_MISSIONS": [
                 "Advanced Algorithm Development",
