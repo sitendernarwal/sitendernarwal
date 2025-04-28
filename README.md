@@ -117,7 +117,6 @@ agent = CyberSecurityOperative()
 [√] Security Certifications in Progress
 ```
 - 🎯 Google Cyber Security Certificate (Professional)
-- 🎯 CompTIA Security+ (In Progress)
 
 
 ## 【﻿ＣＯＭＭＵＮＩＣＡＴＩＯＮ　ＣＨＡＮＮＥＬＳ】
