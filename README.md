@@ -114,7 +114,7 @@ agent = CyberSecurityOperative()
 ## 【﻿ＳＥＣＵＲＩＴＹ　ＣＬＥＡＲＡＮＣＥ】
 
 ```css
-[√] Security Certifications in Progress
+[√] Security Certifications 
 ```
 - 🎯 Google Cyber Security Certificate (Professional)
 
