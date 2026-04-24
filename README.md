@@ -155,8 +155,6 @@ agent = CyberSecurityOperative()
 - ✅ **Google Cyber Security Certificate** - Professional Certification
 - 🎓 **IIT Delhi Scholar** - Mathematics & Computing
 - 💡 **Algorithm Expert** - Mastered Data Structures & DSA
-- 🔐 **Security Protocol Designer** - Cryptographic systems specialist
-- 🚀 **Competitive Programmer** - Multi-platform contributor
 
 ---
 
