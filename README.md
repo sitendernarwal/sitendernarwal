@@ -232,7 +232,7 @@ is the one your enemy doesn't see coming."
 
 ```
 ╔════════════════════════════════════════╗
-║    ✅ ACCESS GRANTED - LEVEL 5         ║
+ ║    ✅ ACCESS GRANTED - LEVEL 5         ║
 ║    Welcome to the Digital Fortress     ║
 ║    Status: ACTIVE                      ║
 ║    Clearance: MAXIMUM                  ║
@@ -259,7 +259,7 @@ is the one your enemy doesn't see coming."
 
 ```
 █████████████████████████████████████████████████████
-█  Thank you for visiting my GitHub Profile!  █
+█  Thank you for visiting my GitHub Profile!        █
 █████████████████████████████████████████████████████
 ```
 
